@@ -13,5 +13,5 @@
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-<h3> Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. </h3>
+<h3> Apaixonado por tecnologia, especialmente programação. </h3>
 <h4> Atualmente estudando Engenharia de Software pela Escola DNC</h4>
