@@ -14,6 +14,7 @@
   </a>
 </div>
 
+<<<<<<< HEAD
 ###
 
 <div align="center">
@@ -48,3 +49,7 @@
 <h3 align="left">Atualmente estudando Engenharia de Software pela Escola DNC.</h3>
 
 ###
+=======
+<h3> Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. </h3>
+<h4> Atualmente estudando Engenharia de Software pela Escola DNC</h4>
+>>>>>>> parent of 7ef9e5c (Update README.md)
