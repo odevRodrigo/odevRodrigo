@@ -1,55 +1,16 @@
-<h2 align="left">Olá! eu sou o Rodrigo Pinheiro ✌🏻</h2>
+<h3> Olá! eu sou o Rodrigo Pinheiro ✌🏻 </h3> 
 
-###
+[![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-pinheiro-543994230/)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/rodrigo-pinheiro-543994230/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:rodrigo.pinheiro2311@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-  <a href="https://wa.me/5516992013474" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
+![Rodrigo Pinheiro GitHub stats](https://github-readme-stats.vercel.app/api?username=odevRodrigo&show_icons=true&theme=tokyonight)
+
+<h3> Tecnologias que eu uso no meu dia 💻 </h3>
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-<<<<<<< HEAD
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=odevRodrigo&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=odevRodrigo&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/odevRodrigo/odevRodrigo/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h1 align="left">Apaixonado por tecnologia, especialmente desenvolvimento de software.</h1>
-
-###
-
-<h3 align="left">Atualmente estudando Engenharia de Software pela Escola DNC.</h3>
-
-###
-=======
-<h3> Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação. </h3>
+<h3> Apaixonado por tecnologia, especialmente programação. </h3>
 <h4> Atualmente estudando Engenharia de Software pela Escola DNC</h4>
->>>>>>> parent of 7ef9e5c (Update README.md)
