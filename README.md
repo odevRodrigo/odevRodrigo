@@ -11,9 +11,6 @@
 <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
-<br>
-
-<img src="https://raw.githubusercontent.com/odevRodrigo/odevRodrigo/output/snake.svg" alt="Snake animation" />
 
 <h3> Apaixonado por tecnologia, especialmente programação. </h3>
 <h4> Atualmente estudando Engenharia de Software pela Escola DNC</h4>
