@@ -15,4 +15,4 @@
 
 <h3> Apaixonado por tecnologia, especialmente programação. </h3>
 <h4> Atualmente cursando Análise e Desenvolvimento de Sistemas</h4>
-<h4> Desenvolvedor Back-End Escola DNC</h4>
+
