@@ -1,7 +1,9 @@
 <h3> Olá! eu sou o Rodrigo Pinheiro ✌🏻 </h3> 
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-pinheiro-543994230/)
-![WhatsApp]((https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(https://w.app/a9afcz))
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/a9afcz)
+
+(https://w.app/a9afcz)
 
 ![Rodrigo Pinheiro GitHub stats](https://github-readme-stats.vercel.app/api?username=odevRodrigo&show_icons=true&theme=tokyonight)
 
